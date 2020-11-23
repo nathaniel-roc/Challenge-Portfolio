@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+#all{
+    width: auto;
+    height: auto;
+    background-color: bisque;
+}
+
+#links{
+    width: 40%;
+    height: auto;
+    background-color: red;
+    display: inline-block;
+    margin: 0;
+}
+
+#rechts{
+    width: 50%;
+    height: auto;
+    background-color: blue;
+    display: inline-block;
+    margin: 0;
+}
+
+/* #img{
+    float: left;
+    width: auto;
+    height: auto;
+} */
