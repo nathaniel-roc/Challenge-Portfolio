@@ -4,4 +4,4 @@ Student : `Nathaniel de Waal`
 
 Klas    : `0D`
 
-Link    : [nathaniel-roc.github.io](nathaniel-roc.github.io)
+Link    : Vanwege dat ik het in PHP gemaakt heb kan je het vinden op: https://devn.eu/test
