@@ -1,7 +1,7 @@
 # Link naar je Github Pages
 
-Student : `studentnaam`
+Student : `Nathaniel de Waal`
 
-Klas    : `klascode`
+Klas    : `0D`
 
-Link    : [github_username.github.io](github_username.github.io)
+Link    : [nathaniel-roc.github.io](nathaniel-roc.github.io)

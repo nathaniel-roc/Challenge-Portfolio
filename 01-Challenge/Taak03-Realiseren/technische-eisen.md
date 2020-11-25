@@ -41,47 +41,47 @@ Onderstaande lijst is een beknopt overzicht van de HTML/CSS en JS technieken die
 
 #### HTML
 ```html
-<!-- Frontend-Basic -->
+<!-- Frontend-Basic
     <!DOCTYPE html>
     <head> en <title> en <body>
     <h1> t/m <h6> en <p>
     <a href="">
     <img src="">
-    class- en id-atributen (<element class="" id="">)
+    class- en id-atributen (<element class="" id="">) -->
 
 <!-- Frontend-Essentials -->
-    <ul> en <ol> met <li>
-    <nav> en <article>
-    <table> met <thead> en <tr> en <td>
-    <link rel="" href="">
-    <script src=""> 
+    <!-- <ul> en <ol> met <li> -->
+    <!-- <nav> en <article> -->
+    <!-- <table> met <thead> en <tr> en <td> -->
+    <!-- <link rel="" href=""> -->
+    <!-- <script src="">  -->
 ```
 
 #### CSS
 ```css
 /* Frontend-Basic */
-    background-color
-    color
+    /* background-color
+    color */
 
 /* Frontend-Essentials */
-    display
-    boxmodel met border, margin en padding
-    flexbox met row / row-reverse en column / column-reverse en justify-content / align-items
+    /* display
+    boxmodel met border, margin en padding */
+    /* flexbox met row / row-reverse en column / column-reverse en justify-content / align-items */
 ```
 
 #### Javascript
 ```javascript
 // Frontend-Basic
-    alert() en prompt() en confirm()
-    Let (Variabelen) 
+    // alert() en prompt() en confirm()
+    // Let (Variabelen) 
 
 // Frontend-Essentials
-    console.log()
-    variabelen met datatypes
-    objects met properties
-    string concattenation
-    if / else
-    document.queryselector()
+    // console.log()
+    // variabelen met datatypes
+    // objects met properties
+    // string concattenation
+    // if / else
+    // document.queryselector()
 ```
 
 
