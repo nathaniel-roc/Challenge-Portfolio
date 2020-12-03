@@ -2,11 +2,13 @@
 
 function Verstuurd()
 {
-    $naam = $_GET['naam'] ?? ' ';
-    $onderwerp = $_GET['onderwerp'] ?? ' ';
-    $tekst = $_GET['tekst'] ?? ' ';
-    $email = $_GET['email'] ?? ' ';
-    
+    $naam = $_GET['naam'];
+    $onderwerp = $_GET['onderwerp'];
+    $tekst = $_GET['tekst'];
+    $email = $_GET['email'];
+    isset($naam);
+    var_dump($naam);
+    if($naam != "niks"){
         echo "<table>
         <thead>
           <tr>
@@ -25,6 +27,7 @@ function Verstuurd()
           </tr>
         </tbody>
       </table>";
+    }
 }
 
 

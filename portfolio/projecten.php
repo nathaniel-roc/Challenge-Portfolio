@@ -9,31 +9,12 @@
 
 <div class="row">
   <div class="column left">
-  <a href="https://www.instagram.com/nathaniel.de.waal/">
-    <img src="img/mij.jpg">
-</a>
+    <a href="https://www.instagram.com/nathaniel.de.waal/">
+      <img src="img/mij.jpg">
+    </a>
   </div>
   <div class="column right" >
     <?php require 'includes/projecten.php'; ?>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
   </div>
 </div>
 <?php require 'includes/footer.php'; ?>

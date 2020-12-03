@@ -14,10 +14,6 @@
   </a>
   </div>
   <div class="column right" >
-    <br>
-    <br>
-    <br>
-    <br>
       <article>
         <h1>About</h1>
         <p>Ik ben Nathaniel de Waal 16 jaar oud en doe Software developing op het ROCVA locatie Amstelveen.</p>
@@ -28,18 +24,7 @@
         <p> natuurlijk op zijn tijd wat te gamen en Netflixen.</p>
         <p>Voor meer vragen kun je natuurlijk naar m'n contactpagina.</p>
       </article>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+  
   </div>
 </div>
 <?php require 'includes/footer.php'; ?>

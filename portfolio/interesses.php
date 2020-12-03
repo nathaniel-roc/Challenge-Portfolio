@@ -15,25 +15,6 @@
   </div>
   <div class="column right" >
     <?php require 'includes/interesses.php'; ?>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
   </div>
 </div>
 <?php require 'includes/footer.php'; ?>

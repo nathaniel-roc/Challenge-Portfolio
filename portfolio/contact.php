@@ -26,34 +26,6 @@
     </div>
       <p> <?php Verstuurd(); ?> <?php SendEmail(); ?></p>
     </forum>
-    
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
   </div>
 </div>
 <?php require 'includes/footer.php'; ?>

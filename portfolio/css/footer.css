@@ -3,8 +3,11 @@ footer{
     padding: 3px;
     background-color: #362e33;
     color: white;
-    width: auto;
+    width: 100%;
     height: auto;
+    left: 0;
+    bottom: 0;
+    position: fixed;
 }
 
 a{
